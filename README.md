@@ -1,5 +1,3 @@
-
-=======
 # YogaPosture-Monitoring-Correction
 
 Befor running the code, download the file from this link and add it to pose/mpi
@@ -38,6 +36,4 @@ Git clone the [Frontend repository](https://github.com/LekhaKarthik/yogi-app) us
 ```
 git clone https://github.com/LekhaKarthik/yogi-app
 ```
-=======
-# YogaPosture-Monitoring-Correction
 
