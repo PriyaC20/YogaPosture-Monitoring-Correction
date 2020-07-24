@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-# Yoga-Posture
+
+=======
+# YogaPosture-Monitoring-Correction
 
 Befor running the code, download the file from this link and add it to pose/mpi
 http://posefs1.perception.cs.cmu.edu/OpenPose/models/pose/mpi/pose_iter_160000.caffemodel
@@ -39,4 +40,4 @@ git clone https://github.com/LekhaKarthik/yogi-app
 ```
 =======
 # YogaPosture-Monitoring-Correction
->>>>>>> 5cc5d74abd4d462d59da0d95e1185a4f08584ef4
+
