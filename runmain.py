@@ -24,7 +24,7 @@ def takeAndCompare():
 
 	#capture.captureImage()
 
-	opi.OpenImage(o1,"new_image.jpg","Output-Keypoints.jpg","Output-Skeleton.jpg")
+	opi.OpenImage(o1,"test_image1.jpg","Output-Keypoints.jpg","Output-Skeleton.jpg")
 
 	for i in range(len(o1)):
 		if o1[i]!=0 and o2[i]!=0:
