@@ -18,12 +18,12 @@ pip install pycryptodome
 pip install pymongo
 ```
 
-To test only the backend code with image from webcam, run tester1.py. It will capture an image from the webcam of the computer/laptop and compare it to the Virabhdrasana pose.
+To test only the backend code with image from webcam, run tester1.py. It will capture an image from the webcam of the computer/laptop and compare it to the Virabhdrasana pose. The captured image will be stored in cam_image.jpg. So change the path of the image as cam_image.jpg in the file called runmain.py
 ```
 python tester1.py
 ```
 
-To test the backend code with pre-existing image, run tester2.py and change the path of input image to the desired image.
+To test the backend code with pre-existing image, run tester2.py and change the path of input image to the desired image in the file called runmain.py
 ```
 python tester2.py
 ```
