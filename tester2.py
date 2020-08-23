@@ -7,10 +7,10 @@ d={'1':'straighten right elbow','2':'bend right elbow','3':'straighten left elbo
 
 rm.getvaluesfromdb('Virabhadrasana')
 
-shutil.copy2("images/TestImages/bendKnee.jpg","new_image.jpg")
+#shutil.copy2("images/TestImages/bendKnee.jpg","new_image.jpg")
 
 print(rm.takeAndCompare())
 x=rm.findingerror()
-print(d[x])
+#print(d[x])
 
 
