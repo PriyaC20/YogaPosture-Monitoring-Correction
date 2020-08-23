@@ -11,6 +11,6 @@ rm.getvaluesfromdb('Virabhadrasana')
 
 print(rm.takeAndCompare())
 x=rm.findingerror()
-#print(d[x])
+print(d[x])
 
 
